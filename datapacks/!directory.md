@@ -1,0 +1,16 @@
+> Please note that the data packs in this repository were mainly designed for one-off videos, and are not projects I plan to support in the long-term. Some packs will work in versions besides the one listed below, but if they stop working, I will likely not update them myself.
+
+| Pack | Description | Version | Video |
+| --- | --- | --- | --- |
+| [inventory_shrink](inventory_shrink.zip) | The player's inventory loses one slot every minute. The time period can be modified with `/function inventory_shrink:shrink_rate {ticks:<number_of_ticks>}`, and shrinking starts when you run `/function inventory_shrink:start` and can be stopped with `/function inventory_shrink:stop`. There is a companion resource pack that makes the Barriers look like locks instead: [locked_slot](../resourcepacks/locked_slot.zip) | 26.2-snapshot-3 | https://youtube.com/shorts/RDkwQVMB2Ng |
+| [chunk_to_block](chunk_to_block.zip) | When a player mines a block, the chunk the block is in converts to a single block. You can customize the block by running `/function chunk_to_block:set_block {block:<block_id>}`. If you set `{block:random}`, it will pick a random block on every mine. | 26.2-snapshot-3 | https://youtube.com/shorts/BhXq-HL-6nc |
+| [world_shrink](world_shrink.zip) | The world vertically shrinks at a rate of one block per second. Starts when you run `/function world_shrink:start` and can be stopped with `/function world_shrink:stop` | 26.2-snapshot-3 | https://youtube.com/shorts/dSH3j8YKQpI |
+| [mob_splitting](mob_splitting.zip) | All mobs will split like Slimes when they die. They get smaller as they split, and can be split up to 3 times, meaning 1 mob can become 8. | 26.2-snapshot-3 | https://youtube.com/shorts/75-OAZiNzaw |
+| [chunk_to_bedrock](chunk_to_bedrock.zip) | When a player mines a block, the chunk the block is in becomes Bedrock. | 26.2-snapshot-2 | https://youtube.com/shorts/jp11zg-SRcA |
+| [mobs_keep_me_alive](mobs_keep_me_alive.zip) | Players take damage when they are not within 3 blocks of any mob. Players respawn at a mob's location. | 26.2-snapshot-2 | https://youtube.com/shorts/9LmEc1TsLtI |
+| [player_splitting](player_splitting.zip) | Players split like Slimes when they die. | 26.1.1 | https://youtube.com/shorts/6YI3jXHgcb4 |
+| [copycat](copycat.zip) | The player controls every mob in the world. | 26.1.1 | https://youtube.com/shorts/OTfVWOMj3sg |
+| [mining_costs_xp](mining_costs_xp.zip) | You can't mine blocks unless you have XP. | 26.1.1 | https://youtube.com/shorts/xBfyLyGyTDU |
+| [minejump](minejump.zip) | The player can only break blocks by jumping on them repeatedly. | 26.1.1 | https://youtube.com/shorts/lNrRd1mNAhU |
+| [break_to_move](break_to_move.zip) | You have to mine blocks in order to move. | 26.1 | https://youtube.com/shorts/XQgHAYjfsiI |
+| [dont_mine_twice](dont_mine_twice.zip) | If you mine the same block 2 times, you explode. | 26.1 | https://youtube.com/shorts/IOP_53TfSwM |
