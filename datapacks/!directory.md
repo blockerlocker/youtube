@@ -2,6 +2,7 @@
 
 | Pack | Description | Version | Video |
 | --- | --- | --- | --- |
+| [craftsplode](craftsplode.zip) | TNT spawns when players craft. | 26.2-snapshot-4 | https://youtube.com/shorts/CfJ2tlfQEw8 |
 | [blocks_spawn_mobs](blocks_spawn_mobs.zip) | Random mobs spawns when blocks break. |  26.2-snapshot-3 | https://youtube.com/shorts/j3pXKysm818 |
 | [inventory_shrink](inventory_shrink.zip) | The player's inventory loses one slot every minute. The time period can be modified with `/function inventory_shrink:shrink_rate {ticks:<number_of_ticks>}`, and shrinking starts when you run `/function inventory_shrink:start` and can be stopped with `/function inventory_shrink:stop`. There is a companion resource pack that makes the Barriers look like locks instead: [locked_slot](../resourcepacks/locked_slot.zip) | 26.2-snapshot-3 | https://youtube.com/shorts/RDkwQVMB2Ng |
 | [chunk_to_block](chunk_to_block.zip) | When a player mines a block, the chunk the block is in converts to a single block. You can customize the block by running `/function chunk_to_block:set_block {block:<block_id>}`. If you set `{block:random}`, it will pick a random block on every mine. | 26.2-snapshot-3 | https://youtube.com/shorts/BhXq-HL-6nc |
