@@ -2,6 +2,7 @@
 
 | Pack | Description | Version | Video |
 | --- | --- | --- | --- |
+| [player_magnet](player_magnet.zip) | Players attract entities when holding Sprint and repel entities when holding Sneaking. | 26.2-snapshot-4 | https://youtube.com/shorts/IgaT2JCS4eg |
 | [craftsplode](craftsplode.zip) | TNT spawns when players craft. | 26.2-snapshot-4 | https://youtube.com/shorts/CfJ2tlfQEw8 |
 | [blocks_spawn_mobs](blocks_spawn_mobs.zip) | Random mobs spawns when blocks break. |  26.2-snapshot-3 | https://youtube.com/shorts/j3pXKysm818 |
 | [inventory_shrink](inventory_shrink.zip) | The player's inventory loses one slot every minute. The time period can be modified with `/function inventory_shrink:shrink_rate {ticks:<number_of_ticks>}`, and shrinking starts when you run `/function inventory_shrink:start` and can be stopped with `/function inventory_shrink:stop`. There is a companion resource pack that makes the Barriers look like locks instead: [locked_slot](../resourcepacks/locked_slot.zip) | 26.2-snapshot-3 | https://youtube.com/shorts/RDkwQVMB2Ng |
