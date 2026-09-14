@@ -2,6 +2,8 @@
 
 | Pack | Description | Version | Video |
 | --- | --- | --- | --- |
+| [guesstheupdate](https://github.com/blockerlocker/guesstheupdate) | Minigame where you sort 15 random items into 3 random updates based on when they were added. | 26.3-pre-2 | https://youtube.com/shorts/SaLZhL9nux8 |
+| [keepy_uppy](https://github.com/blockerlocker/keepy_uppy) | Keep a chicken in the air without touching the ground for as long as possible using Wind Charges. | 26.3-snapshot-10 | https://youtube.com/shorts/cVWeKnJ1Yqg |
 | [mine_block_increase_drops](https://github.com/blockerlocker/mine_block_increase_drops) | Block drops increase every time the player mines a block. | 26.3-snapshot-10 | https://youtube.com/shorts/GrQIG5LyVhY |
 | [eggblock](https://github.com/blockerlocker/eggblock) | Chickens lay random items. | 26.3-snapshot-10 | https://youtube.com/shorts/0pMm5HQZX7I |
 | [brickifier](https://github.com/blockerlocker/brickifier) | Convert the world into a toy building block style | 26.3-snapshot-9 | https://youtube.com/shorts/jrWsz843FBw |
