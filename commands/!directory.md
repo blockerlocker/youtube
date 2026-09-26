@@ -2,6 +2,7 @@
 
 | Guide | Description | Version | Video |
 | --- | --- | --- | --- |
+| [Sticks Mixes Creepers](Sticks%20Mixes%20Creepers.md) | Feeding Sticks to Creepers causes them to Mix into larger Creepers. | 26.3 | https://youtube.com/shorts/L7qV4O1skkk |
 | [Villager Hats](Villager%20Hats.md) | Villager hats as items that the player can wear. | 1.21.9+<br>(video in 26.3) | https://youtube.com/shorts/7Yx-RApXdx4 |
 | [Barrelporters](Barrelporters.md) | Adds special Barrels that can teleport items. | 26.2-snapshot-5 | https://youtube.com/shorts/t8jcq8QVPzU |
 | [Ancient City Portal Animation](Ancient%20City%20Portal%20Animation.md) | Make an Ancient City Portal look like it opens. | 26.1.2 | https://youtube.com/shorts/5OwQGjNDLKo |
